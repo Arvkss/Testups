@@ -5,5 +5,10 @@ Maruti
 Santro
 Alto
 
+Red
+Yellow
+Blue
+Green
+
 
 Thank you
