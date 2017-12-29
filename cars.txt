@@ -8,5 +8,9 @@ Mahindra
 Hyundai
 Toyota
 
+Bolero
+Scorpio
+SUV
+
 
 Thank you
